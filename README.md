@@ -2,7 +2,7 @@
 To build a spam detection model using Classification method.<br />
 ## ML08B Group 4 - SMS Spam Detection Model<br />
 ## DataSet : https://github.com/nanditanagappa/sms_Spam_Detection_Model/blob/master/spam.csv <br />
-## Team : Pranay Bhoyar, Sujata Burli, Lalita Snigdha, Krishna Vyas, Nandita B N <br />
+Team : Pranay Bhoyar, Sujata Burli, Lalita Snigdha, Krishna Vyas, Nandita B N <br />
 
 
 
